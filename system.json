@@ -22,7 +22,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/guswadsworth12/Essence20",
-  "manifest": "https://github.com/WookieeMatt/Essence20/releases/download/v0.5-Graphix-Branch/system.json",
-  "download": "https://github.com/WookieeMatt/Essence20/releases/download/v0.5-Graphix-Branch/Essence20-graphix.zip",
+  "manifest": "https://github.com/guswadsworth12/Essence20/releases/download/rends-ver/system.json",
+  "download": "https://github.com/guswadsworth12/Essence20/releases/download/rends-ver/Essence20-graphix.zip",
   "license": "LICENSE.txt"
 }
