@@ -11,7 +11,7 @@
 
 .window-app .window-content {
   /* background: rgb(78, 78, 78); */
-  background: black;
+  background: rgb(68, 68, 68);
   color: white;
 }
 
@@ -30,7 +30,7 @@
 
 .rollable:hover,
 .rollable:focus {
-  color: #000;
+  color: rgb(3, 4, 110);
   text-shadow: 0 0 10px red;
   cursor: pointer;
 }
@@ -394,7 +394,7 @@
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(51, 51, 51, 0.05);
   border: 2px groove #eeede0;
   font-weight: bold;
 }
@@ -464,7 +464,7 @@ input[type="text"] {
   height: 95%;
   width: 95%;
   position: absolute;
-  background: black;
+  background: rgb(48, 48, 48);
   top: 10px;
   left: 10px;
   border-radius: 7%;
@@ -505,7 +505,7 @@ input[type="text"] {
 .essence20 .inner-border {
   height: 95%;
   width: 95%;
-  background: black;
+  background: rgb(51, 51, 51);
   background-size: cover;
   margin: auto;
   border-radius: 7%;
@@ -832,7 +832,7 @@ input[type="text"] {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(51, 51, 51, 0.05);
   border: 2px groove #eeede0;
   font-weight: bold;
 }

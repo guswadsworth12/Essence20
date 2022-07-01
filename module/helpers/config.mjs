@@ -56,7 +56,10 @@ E20.elements = {
   energy: "E20.elements.energy",
   fire: "E20.elements.fire",
   laser: "E20.elements.laser",
-  sonic: "E20.elements.sonic"
+  sonic: "E20.elements.sonic",
+  blunt: "E20.elements.blunt",
+  sharp: "E20.elements.sharp",
+  stun: "E20.elements.stun"
 };
 
 E20.essences = {
