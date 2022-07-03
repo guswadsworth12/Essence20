@@ -11,7 +11,7 @@
 
 .window-app .window-content {
   /* background: rgb(78, 78, 78); */
-  background: rgb(68, 68, 68);
+  background: rgb(67, 88, 75);
   color: white;
 }
 
@@ -464,7 +464,7 @@ input[type="text"] {
   height: 95%;
   width: 95%;
   position: absolute;
-  background: rgb(48, 48, 48);
+  background: rgb(255, 255, 255);
   top: 10px;
   left: 10px;
   border-radius: 7%;
